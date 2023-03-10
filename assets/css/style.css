@@ -57,6 +57,33 @@ h2 {
     height: 500px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
+}
+
+#image-text, #image-text h2 {
+    color: #fff;
+}
+
+#image-text {
+    font-size: 130%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+
+    width: 400px;
+    height: 150px;
+
+    padding-top: 40px;
+    
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }
 
 #temple-image {
