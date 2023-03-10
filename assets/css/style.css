@@ -40,7 +40,8 @@ h2 {
     color: inherit;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -52,6 +53,31 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+#temple-zoom {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#temple-image {
+    height: 500px;
+    width: 100%;
+    background: url('../images/grand-palace-1822487_960_720.jpg') no-repeat center center;
+    background-size: cover;
+    animation-duration: 5s;
+    animation-name: temple-zoom;
+    animation-fill-mode: forwards;
+}
+
+@keyframes temple-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
 
 
 
