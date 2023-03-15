@@ -114,17 +114,50 @@ h2 {
     column-gap: 0px;
     column-count: 3;
     margin-left: 160px;
-    
-    
+
 }
 
 #pictures img {
     width: 100%;
+
+
 }
 
 .img-resize {
     height: 350px;
     width: 400px;
+
+}
+
+.img-resize :hover {
+    border: 1px solid #3a3a3a;
+
+}
+
+footer {
+    height: auto;
+    background-image: linear-gradient(to right top, #845ec2, #aa4eb4, #c9399d, #df2280, #eb125e);
+    width: 100%;
+    padding-top: 40px;
+    border: #3a3a3a 1px solid;
+
+}
+
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks li {
+    display: inline;
+
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a
 }
 
 
