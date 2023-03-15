@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Stylish&display=swap');
 
 
 * {
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'Black And White Picture', sans-serif;
+    font-family: 'Indie Flower', cursive;
     color: #3a3a3a;
 }
 
