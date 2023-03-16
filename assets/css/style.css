@@ -214,6 +214,25 @@ footer {
 
 
 
+#trip-text-left {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+.trip-text {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#video-style-right {
+    padding-top: 140px;
+    width: 33%;
+    float: right;
+}
 
 
 
