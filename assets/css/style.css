@@ -336,16 +336,3 @@ hr {
 
 
 }
-
-.signup-picture img {
-    border: #fff 1px solid;
-    padding-left: auto;
-}
-
-.signup-picture img:hover {
-    color: #252525;
-}
-
-.desc {
-    color: #fff;
-}
