@@ -23,6 +23,7 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 20px;
 }
 
 #menu {
@@ -226,6 +227,11 @@ footer {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    color: #fff;
+}
+
+.trip-text h2 {
+    color: #fafafa;
 }
 
 #video-style-right {
@@ -233,7 +239,6 @@ footer {
     width: 33%;
     float: right;
 }
-
 
 
 
