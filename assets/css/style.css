@@ -122,6 +122,8 @@ section {
     column-gap: 0px;
     column-count: 3;
     margin-left: 160px;
+    padding: 50px 0;
+
 
 }
 
@@ -132,8 +134,8 @@ section {
 }
 
 .img-resize {
-    height: 350px;
-    width: 400px;
+    height: 380px;
+    width: 480px;
 
 }
 
@@ -181,7 +183,7 @@ footer {
     padding-top: 30px;
     width: 33%;
     float: left;
-    
+
 }
 
 #right-about {
@@ -194,7 +196,6 @@ footer {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 .left-about-heading {
@@ -227,11 +228,28 @@ hr {
     margin: 5px 0;
 }
 
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
 
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
 
-
-
-
+#circle-cover-bg {
+    background: url(../images/buddha-5082641_960_720.jpg)no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
 
 
 
@@ -317,4 +335,17 @@ hr {
     background-attachment: fixed;
 
 
+}
+
+.signup-picture img {
+    border: #fff 1px solid;
+    padding-left: auto;
+}
+
+.signup-picture img:hover {
+    color: #252525;
+}
+
+.desc {
+    color: #fff;
 }
