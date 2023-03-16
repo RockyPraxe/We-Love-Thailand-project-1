@@ -49,28 +49,34 @@
             <h2>Register here if you want to win!</h2>
 
             <label for="fname">First Name</label>
-            <input type="text" id="fname" name="first_name" required>
+            <input type="text" id="fname" name="first_name" required class="text-input">
+
             <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="last_name" required>
+            <input type="text" id="lname" name="last_name" required class="text-input">
+
             <label for="email">Email</label>
-            <input type="email" id="email" name="email" required>
+            <input type="email" id="email" name="email" required class="text-input">
+
             <label for="tnumber">Telephone Number</label>
-            <input type="number" id="tnumber" name="tel-number" required>
+            <input type="number" id="tnumber" name="tel-number" required class="text-input">
+
             <label for="male">Male</label>
             <input type="radio" id="male" name="gender_male_female" value="male" required>
+
             <label for="female">Female</label>
             <input type="radio" id="female" name="gender_male_female" value="female" required>
-            <label for="text">Why should you win?</label>
+
+            <label for="text">Why should you win?"</label>
             <textarea name="text" id="text" cols="30" rows="10" placeholder="Tell us, why you!"></textarea>
-            <label for="submit">Send It!</label>
-            <input type="submit" id="submit" name="submit" required>
+
+            <input class="sendit-button" type="submit" value="Send it!" required class="text-input">
 
         </form>
 
     </section>
     <footer>
         <div>
-            <ul>
+            <ul class="social-networks">
                 <li><a href="https://www.facebook.com" target="_blank" rel="noopener"><i
                             class="fab fa-facebook"></i></a>
                 </li>
@@ -82,9 +88,6 @@
                             class="fab fa-instagram"></i></a>
                 </li>
             </ul>
-        </div>
-        <div>
-            <p>Copyright <i class="fa-regular fa-copyright"></i> Rocky Praxe</p>
         </div>
     </footer>
     <script src="https://kit.fontawesome.com/792ed06e17.js" crossorigin="anonymous"></script>
