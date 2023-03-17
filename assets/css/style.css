@@ -20,6 +20,8 @@ h2 {
     color: #252525;
 }
 
+/*main picture*/
+
 #logo {
     float: left;
     font-size: 280%;
@@ -114,7 +116,7 @@ section {
 }
 
 
-
+/*gallery pictures*/
 
 #pictures {
     clear: both;
@@ -144,78 +146,51 @@ section {
 
 }
 
+/*footer*/
+
 footer {
     background-color: #433739;
     height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  
-  .footer-content {
+}
+
+.footer-content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-  }
-  
-  .social-networks {
+}
+
+.social-networks {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 20px;
-  }
-  
-  .social-networks li {
-    display: inline;
-    margin: 0 10px;
-  }
-  
-  .social-networks i {
-    font-size: 30px;
-    color: #fff;
-  }
-  
-  .footer-text {
-    color: #fff;
-    font-size: 18px;
-    text-align: center;
-  }
-  
-
-/* footer
-
-footer {  
-    background-color: #433739;
-}
-
-.social-networks {
-    text-align: center;
-
 }
 
 .social-networks li {
     display: inline;
-
+    margin: 0 10px;
 }
 
 .social-networks i {
-    font-size: 200%;
-    margin: 1%;
-    padding: 5%;
-    color: #fff
+    font-size: 30px;
+    color: #fff;
 }
 
-.social-networks i:hover {
+.footer-text {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.footer-content i:hover {
     color: #252525;
 }
 
-.copyright h3 {
-    color: #fff;
-    text-align: center;
-
-}
-*/
 
 /*visitors */
 
