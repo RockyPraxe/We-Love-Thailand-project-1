@@ -357,7 +357,7 @@ hr {
 }
 
 .text-input:hover {
-    border-color: #2F78C5;
+    border-color: #433739;
 }
 
 .sendit-button {
@@ -366,14 +366,14 @@ hr {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #2F78C5;
+    background-color: #433739;
     color: #fafafa;
     display: block;
 }
 
 .sendit-button:hover {
     background-color: #fafafa;
-    color: #2F78C5;
+    color: #433739;
 }
 
 .form-section {
@@ -385,4 +385,8 @@ hr {
     background-attachment: fixed;
 
 
+}
+
+.video {
+    display: inline-block;
 }
