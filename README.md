@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Project logo](../We-Love-Thailand-project-1/assets/images/beach.avif)
 
 Welcome RockyPraxe .,
 
