@@ -449,6 +449,7 @@ hr {
         flex-wrap: wrap;
         justify-content: center;
     }
+
     .img-resize {
         width: 45%;
         margin: 1%;
@@ -456,9 +457,22 @@ hr {
 }
 
 @media only screen and (max-width: 900px) {
-    
+
     .img-resize {
         width: 100%;
-    
     }
+
+.sendit-button {
+    border: 1px solid  #fff;
 }
+
+}
+
+@media (max-width: 1200px) {
+    .footer-index {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    }
+    }
