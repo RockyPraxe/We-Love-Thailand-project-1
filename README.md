@@ -1,6 +1,6 @@
 ![Project logo](../We-Love-Thailand-project-1/assets/images/beach.avif)
 
-Welcome RockyPraxe .,
+![View the live project here.](https://rockypraxe.github.io/We-Love-Thailand-project-1/)
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
