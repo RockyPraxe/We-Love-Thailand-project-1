@@ -108,3 +108,28 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 - From the source section drop-down menu, select the Master Branch.
 - Once the master branch has been selected as main, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 - The live link can be found here - https://rockypraxe.github.io/We-Love-Thailand-project-1/index.html
+
+# Code
+
+- HTML
+- CSS
+
+# Credits
+
+- Codeinstitute LMG videos and templets
+- [W3schools.com](https://www.w3schools.com/css/default.asp) for help with the css code
+
+## Content
+- The text for the Home page was taken from the Autor, Wikipedia and Google.
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The font and font style were taken from [Google Fonts](https://fonts.google.com/)
+
+## Media
+
+- The pictures wer taken from the Autor, [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/)
+
+## Design
+
+- For the colors i used [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) and [Color Space](https://mycolor.space/)
+
+- I used for the responsive design picture for README.md [Bytes.dev](https://bytes.dev/)
