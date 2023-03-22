@@ -23,3 +23,15 @@ To view the website, simply click on the following link: [View the live project 
 - Responsive footer that includes links to social media accounts and copyright information.
 
 ![Responsive footer](assets/images/responsive%20footer.png)
+
+# Visitors section
+
+-  The "Visitors" section on the We Love Thailand website provides information and tips for tourists who are planning to visit Thailand, including recommendations why they should visit the country.
+
+![Visitors section](assets/images/visitors%20section.png)
+
+# What to do section
+
+-  The "What To Do" section on the We Love Thailand  website provides recommendations for activities and experiences that visitors can enjoy in Thailand, such as trying local food, visiting temples and historical sites, enjoy a massage, relaxing and exploring natural wonders like beaches and waterfalls.
+
+![What to do section](assets/images/what-to-do.png)
