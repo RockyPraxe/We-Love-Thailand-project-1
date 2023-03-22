@@ -65,6 +65,11 @@ To view the website, simply click on the following link: [View the live project 
 
 # Testing
 
+-  The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-  A large amount of testing was done to ensure that all pages were linking correctly.
+-  Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -  [W3C Markup Validator - Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F)
@@ -84,3 +89,22 @@ To view the website, simply click on the following link: [View the live project 
 - Mobile version
 
 ![Mobile](assets/images/mobile_version.png)
+<hr>
+
+-  The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-  A large amount of testing was done to ensure that all pages were linking correctly.
+-  Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+# Unfixed Bugs
+
+-  On the first page (home or index.html) when viewed on a mobile or tablet, the footer covers the bottom of the text under the last image in the What To Do section.
+
+# Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab.
+-  Then on the left side of the screen click on Pages
+- From the source section drop-down menu, select the Master Branch.
+- Once the master branch has been selected as main, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The live link can be found here - https://rockypraxe.github.io/We-Love-Thailand-project-1/index.html
