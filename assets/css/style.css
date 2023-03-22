@@ -126,24 +126,19 @@ section {
     margin-left: 150px;
     padding: 50px 0;
 
-
 }
 
 #pictures img {
     width: 100%;
-
-
 }
 
 .img-resize {
     height: 380px;
     width: 480px;
-
 }
 
 .img-resize :hover {
     border: 1px solid #3a3a3a;
-
 }
 
 /*footer*/
@@ -206,14 +201,12 @@ footer {
     padding-top: 30px;
     width: 33%;
     float: left;
-
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-
 }
 
 #center-about {
@@ -351,10 +344,7 @@ hr {
     background-position: center;
     height: 900px;
     background-attachment: fixed;
-
-
 }
-
 
 /* Media queries*/
 
@@ -393,7 +383,6 @@ hr {
         padding: 0;
     }
 
-
     hr {
         display: none;
     }
@@ -414,11 +403,6 @@ hr {
         left: 0;
     }
 
-    /*#image-text h2 {
-        text-align: left;
-    }
-
-*/
     #visitors {
         width: 90%;
         height: 1200px;
@@ -486,8 +470,6 @@ hr {
     #image-text h2 {
         text-align: left;
     }
-
-    
 }
 
 /*For larger to medium screen size from 580px wide and down*/
