@@ -43,3 +43,9 @@ To view the website, simply click on the following link: [View the live project 
 -  The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![footer](assets/images/responsive%20footer.png)
+
+# Gallery 
+
+-  The "Gallery" section on the We Love Thailand  website features a collection of high-quality images showcasing the beauty of Thailand. Visitors can browse through the gallery and view pictures of different destinations, attractions, and activities in Thailand to get inspiration for their own travels.
+
+![Gallery](assets/images/gallery.png)
