@@ -150,6 +150,7 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 - Codeinstitute LMG videos, tutorials and templets
 - [W3schools.com](https://www.w3schools.com/css/default.asp) for help with the css code
+- Youtube
 
 ## Content
 - The text for the Home page was taken from the Autor, Wikipedia and Google.
