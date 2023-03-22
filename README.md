@@ -8,11 +8,22 @@ This is a project that showcases the beauty of Thailand. We have compiled a list
 
 ![Mockup Picture](assets/images/responsive%20design.png)
 
+# Table of contents
+
+1. [Getting Started](#started)
+2. [Features](#features)
+3. [Visitors section](#visitors)
+
+
 # Getting Started
+
+<a name="started"></a>
 
 To view the website, simply click on the following link: [View the live project here](https://rockypraxe.github.io/We-Love-Thailand-project-1/)
 
-# Feautres
+# Features
+
+<a name="features"></a>
 
 -  A list of destinations in Thailand with information and pictures.
 -  Responsive design that adjusts to different screen sizes.
@@ -25,6 +36,8 @@ To view the website, simply click on the following link: [View the live project 
 ![Responsive footer](assets/images/responsive%20footer.png)
 
 # Visitors section
+
+<a name="visitors"></a>
 
 -  The "Visitors" section on the We Love Thailand website provides information and tips for tourists who are planning to visit Thailand, including recommendations why they should visit the country.
 
