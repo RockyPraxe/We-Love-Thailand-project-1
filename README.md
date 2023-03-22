@@ -13,6 +13,14 @@ This is a project that showcases the beauty of Thailand. We have compiled a list
 1. [Getting Started](#started)
 2. [Features](#features)
 3. [Visitors section](#visitors)
+4. [What To Do Section](#what)
+5. [Footer](#footer)
+6. [Gallery](#gallery)
+7. [The Sign Up Page](#sign)
+8. [Features Left To Implement](#implement)
+9. [Testing](#testing)
+10. [Deployment](#deployment)
+11. [Credits](#credits)
 
 
 # Getting Started
@@ -43,13 +51,17 @@ To view the website, simply click on the following link: [View the live project 
 
 ![Visitors section](assets/images/visitors%20section.png)
 
-# What to do section
+# What To Do Section
+
+<a name="what"></a>
 
 -  The "What To Do" section on the We Love Thailand  website provides recommendations for activities and experiences that visitors can enjoy in Thailand, such as trying local food, visiting temples and historical sites, enjoy a massage, relaxing and exploring natural wonders like beaches and waterfalls.
 
 ![What to do section](assets/images/what-to-do.png)
 
 # Footer
+
+<a name="footer"></a>
 
 -  The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user.
 -  The footer also includes copyright with a link to [RockyPraxe](https://github.com/RockyPraxe) profile on github.
@@ -59,11 +71,15 @@ To view the website, simply click on the following link: [View the live project 
 
 # Gallery 
 
+<a name="gallery"></a>
+
 -  The "Gallery" section on the We Love Thailand  website features a collection of high-quality images showcasing the beauty of Thailand. Visitors can browse through the gallery and view pictures of different destinations, attractions, and activities in Thailand to get inspiration for their own travels.
 
 ![Gallery](assets/images/gallery.png)
 
 # The Sing Up Page
+
+<a name="sign"></a>
 
 -  The "Sign Up" section on the We Love Thailand project  allows visitors to sign up for a chance travel in Thailand with the community. By providing their name and email address. In the future visitors can receive regular updates about new destinations, travel tips, and promotions related to Thailand.
 
@@ -71,12 +87,16 @@ To view the website, simply click on the following link: [View the live project 
 
 # Features Left To Implement
 
+<a name="implement"></a>
+
 -  Videos from the community
 -  Newsletter for registered members
 -  Dates and times for next trips
 - Meeting times and places for community members
 
 # Testing
+
+<a name="testing"></a>
 
 -  The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
@@ -115,6 +135,8 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 # Deployment
 
+<a name="deployment"></a>
+
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab.
 -  Then on the left side of the screen click on Pages
@@ -128,6 +150,8 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 - CSS
 
 # Credits
+
+<a name="credits"></a>
 
 - Codeinstitute LMG videos, tutorials and templets
 - [W3schools.com](https://www.w3schools.com/css/default.asp) for help with the css code
