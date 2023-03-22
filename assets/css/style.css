@@ -403,7 +403,6 @@ hr {
 
 /*For larger to medium screen size from 950px wide and down*/
 
-
 @media screen and (max-width: 950px) {
     #menu {
         clear: left;
@@ -417,6 +416,11 @@ hr {
         left: 0;
     }
 
+    /*#image-text h2 {
+        text-align: left;
+    }
+
+*/
     #visitors {
         width: 90%;
         height: 1200px;
@@ -463,17 +467,26 @@ hr {
         width: 100%;
     }
 
-.sendit-button {
-    border: 1px solid  #fff;
-}
+    .sendit-button {
+        border: 1px solid #fff;
+    }
 
 }
 
 @media (max-width: 1200px) {
     .footer-index {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
     }
+}
+
+/*For larger to medium screen size from 400px wide and down*/
+
+@media screen and (max-width: 400px) {
+    #image-text h2 {
+        text-align: left;
     }
+
+}
