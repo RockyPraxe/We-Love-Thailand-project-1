@@ -49,3 +49,9 @@ To view the website, simply click on the following link: [View the live project 
 -  The "Gallery" section on the We Love Thailand  website features a collection of high-quality images showcasing the beauty of Thailand. Visitors can browse through the gallery and view pictures of different destinations, attractions, and activities in Thailand to get inspiration for their own travels.
 
 ![Gallery](assets/images/gallery.png)
+
+# The Sing Up Page
+
+-  The "Sign Up" section on the We Love Thailand project  allows visitors to sign up for a chance travel in Thailand with the community. By providing their name and email address. In the future visitors can receive regular updates about new destinations, travel tips, and promotions related to Thailand.
+
+![Signup](assets/images/signup.png)
