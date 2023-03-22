@@ -1,4 +1,4 @@
-![Project picture](assets/images/grand-palace-1822487_960_720.jpg)
+![Project picture](assets/images/grand-palace.jpg)
 
 
 
@@ -6,7 +6,7 @@
 
 This is a project that showcases the beauty of Thailand. We have compiled a list of some of the most beautiful destinations in Thailand, along with information about each destination, so that you can plan your next trip to this amazing country.
 
-![Mockup Picture](assets/images/responsive%20design.png)
+![Mockup Picture](assets/images/responsive-design.png)
 
 # Table of contents
 
@@ -37,11 +37,11 @@ To view the website, simply click on the following link: [View the live project 
 -  Responsive design that adjusts to different screen sizes.
 -  Navigation bar that makes it easy to navigate to different sections of the website.
 
-![Navigation Bar](assets/images/navigation%20bar.png)
+![Navigation Bar](assets/images/navigation-bar-prtsc.png)
 
 - Responsive footer that includes links to social media accounts and copyright information.
 
-![Responsive footer](assets/images/responsive%20footer.png)
+![Responsive footer](assets/images/footer-prtsc.png)
 
 # Visitors section
 
@@ -67,7 +67,7 @@ To view the website, simply click on the following link: [View the live project 
 -  The footer also includes copyright with a link to [RockyPraxe](https://github.com/RockyPraxe) profile on github.
 -  The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![footer](assets/images/responsive%20footer.png)
+![footer](assets/images/footer-prtsc.png)
 
 # Gallery 
 
@@ -75,7 +75,7 @@ To view the website, simply click on the following link: [View the live project 
 
 -  The "Gallery" section on the We Love Thailand  website features a collection of high-quality images showcasing the beauty of Thailand. Visitors can browse through the gallery and view pictures of different destinations, attractions, and activities in Thailand to get inspiration for their own travels.
 
-![Gallery](assets/images/gallery.png)
+![Gallery](assets/images/gallery-prtsc.png)
 
 # The Sing Up Page
 
@@ -83,7 +83,7 @@ To view the website, simply click on the following link: [View the live project 
 
 -  The "Sign Up" section on the We Love Thailand project  allows visitors to sign up for a chance travel in Thailand with the community. By providing their name and email address. In the future visitors can receive regular updates about new destinations, travel tips, and promotions related to Thailand.
 
-![Signup](assets/images/signup.png)
+![Signup](assets/images/signup-prtsc.png)
 
 # Features Left To Implement
 
@@ -107,21 +107,21 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 -  [W3C Markup Validator - Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F)
 
-![Alt text](assets/images/HTML%20Checker.png)
+![Alt text](assets/images/html-chechker-prtsc.png)
 
 -  [W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-![Alt text](assets/images/The%20W3C%20CSS.png)
+![Alt text](assets/images/w3c-prtsc.png)
 
 - Lighthouse testing for the desktop version and the mobile version was also improved.
 
 - Desktop Version
 
-![Desktop](assets/images/desktop_version.png)
+![Desktop](assets/images/lighthouse-desktop-prtsc.png)
 
 - Mobile version
 
-![Mobile](assets/images/mobile_version.png)
+![Mobile](assets/images/lighthouse-mobile-prtsc.png)
 
 
 # Unfixed Bugs
