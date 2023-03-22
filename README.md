@@ -1,9 +1,25 @@
-![Project logo](../We-Love-Thailand-project-1/rice-plantation-1822444_640.jpg)
+![Project picture](assets/images/grand-palace-1822487_960_720.jpg)
 
-[View the live project here](https://rockypraxe.github.io/We-Love-Thailand-project-1/)
+
 
 # We Love Thailand
 
 This is a project that showcases the beauty of Thailand. We have compiled a list of some of the most beautiful destinations in Thailand, along with information about each destination, so that you can plan your next trip to this amazing country.
 
-![Mockup Picture](responsive%20design.png)
+![Mockup Picture](assets/images/responsive%20design.png)
+
+# Getting Started
+
+To view the website, simply click on the following link: [View the live project here](https://rockypraxe.github.io/We-Love-Thailand-project-1/)
+
+# Feautres
+
+-  A list of destinations in Thailand with information and pictures.
+-  Responsive design that adjusts to different screen sizes.
+-  Navigation bar that makes it easy to navigate to different sections of the website.
+
+![Navigation Bar](assets/images/navigation%20bar.png)
+
+- Responsive footer that includes links to social media accounts and copyright information.
+
+![Responsive footer](assets/images/responsive%20footer.png)
