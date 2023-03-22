@@ -94,7 +94,7 @@ h3 {
 #temple-image {
     height: 600px;
     width: 100%;
-    background: url('../images/grand-palace-1822487_960_720.jpg') no-repeat center center;
+    background: url('../images/grand-palace.jpg') no-repeat center center;
     background-size: cover;
     animation-duration: 5s;
     animation-name: temple-zoom;
@@ -262,7 +262,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url(../images/buddha-5082641_960_720.jpg)no-repeat center center;
+    background: url(../images/buddha.jpg)no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -338,7 +338,7 @@ hr {
 }
 
 .form-section {
-    background: url(../images/green-sign-up3681261_960_720.jpg);
+    background: url(../images/coconut.jpg);
     clear: left;
     background-size: cover;
     background-position: center;
