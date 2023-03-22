@@ -116,7 +116,7 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 # Credits
 
-- Codeinstitute LMG videos and templets
+- Codeinstitute LMG videos, tutorials and templets
 - [W3schools.com](https://www.w3schools.com/css/default.asp) for help with the css code
 
 ## Content
@@ -126,10 +126,10 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 ## Media
 
-- The pictures wer taken from the Autor, [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/)
+- The pictures were taken from the Autor, [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/)
 
 ## Design
 
 - For the colors i used [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) and [Color Space](https://mycolor.space/)
 
-- I used for the responsive design picture for README.md [Bytes.dev](https://bytes.dev/)
+- I used [Bytes.dev](https://bytes.dev/) for the responsive design picture for README.md
