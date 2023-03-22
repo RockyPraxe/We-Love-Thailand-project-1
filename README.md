@@ -35,3 +35,11 @@ To view the website, simply click on the following link: [View the live project 
 -  The "What To Do" section on the We Love Thailand  website provides recommendations for activities and experiences that visitors can enjoy in Thailand, such as trying local food, visiting temples and historical sites, enjoy a massage, relaxing and exploring natural wonders like beaches and waterfalls.
 
 ![What to do section](assets/images/what-to-do.png)
+
+# Footer
+
+-  The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user.
+-  The footer also includes copyright with a link to [RockyPraxe](https://github.com/RockyPraxe) profile on github
+-  The footer is valuable to the user as it encourages them to keep connected via social media
+
+![footer](assets/images/responsive%20footer.png)
