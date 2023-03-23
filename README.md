@@ -139,13 +139,32 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 - The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--  [W3C Markup Validator - Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F)
+-  [W3C Markup Validator - Results for index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F)
 
-![Alt text](assets/images/html-chechker-prtsc.png)
 
--  [W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+![index.html](assets/images/html-chechker-prtsc.png)
 
-![Alt text](assets/images/w3c-prtsc.png)
+-  [W3C Markup Validator - Results for gallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2Fgallery.html)
+
+![gallery.html](assets/images/html-checker-gallery-prtsc.png)
+
+-  [W3C Markup Validator - Results for signup.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2Fsignup.html)
+
+![signup.html](assets/images/html-checker-signup-prtsc.png)
+
+
+-  [W3C CSS Validator - Results for index.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![Index](assets/images/w3c-prtsc.png)
+
+-  [W3C CSS Validator - Results for gallery.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![Gallery](assets/images/w3c-gallery-prtsc.png)
+
+-  [W3C CSS Validator - Results for signup.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frockypraxe.github.io%2FWe-Love-Thailand-project-1%2Fsignup.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![SignUp](assets/images/w3c-signup-prtsc.png)
+
 
 - Lighthouse testing for the desktop version and the mobile version was also improved.
 
