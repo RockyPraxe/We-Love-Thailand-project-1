@@ -51,7 +51,7 @@ To view the website, simply click on the following link: [View the live project 
     - ### Frequent User Goals
 
     1. I want stay up-to-date with the latest content by regularly checking the website.
-    2. I want interact with other members of the community by contributing your own photos and articles.
+    2. I want interact with other members of the community by contributing your own photos and articles and also maybe join the community on the next trip.
     3. I want engage with the We Love Thailand Project team by providing feedback and suggestions for new content and also share photos and stories about your own experiences in Thailand.
 
 # Features
