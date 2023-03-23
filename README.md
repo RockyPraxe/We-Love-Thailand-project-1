@@ -166,3 +166,5 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 - For the colors i used [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) and [Color Space](https://mycolor.space/)
 
 - I used [Bytes.dev](https://bytes.dev/) for the responsive design picture for README.md
+
+- I used [Favicon Generator](https://favicon.io/favicon-converter/) to insert the Thai flag
