@@ -173,9 +173,10 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7,
 
 <a name="credits"></a>
 
-- Codeinstitute LMG videos, tutorials and templets
+- Code Institute-LMS videos, tutorials and template
+- Love Running Project
 - [W3schools.com](https://www.w3schools.com/css/default.asp) for help with the css code
-- Youtube
+- [Youtube](https://www.youtube.com/)
 
 ## Content
 - The text for the Home page was taken from the Autor, Wikipedia and Google.
