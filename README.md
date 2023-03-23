@@ -54,6 +54,15 @@ To view the website, simply click on the following link: [View the live project 
     2. I want interact with other members of the community by contributing your own photos and articles and also maybe join the community on the next trip.
     3. I want engage with the We Love Thailand Project team by providing feedback and suggestions for new content and also share photos and stories about your own experiences in Thailand.
 
+- ## Wireframes
+   - ### Home Page
+   ![Home Page](assets/images/home.jpg.png)
+   - ### Gallery
+   ![Gallery](assets/images/gallery.jpg.png)
+   - ### Sign Up
+   ![Sign Up](assets/images/signup.jpg.png)
+   
+
 # Features
 
 <a name="features"></a>
