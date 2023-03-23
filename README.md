@@ -11,16 +11,17 @@ This is a project that showcases the beauty of Thailand. We have compiled a list
 # Table of contents
 
 1. [Getting Started](#started)
-2. [Features](#features)
-3. [Visitors section](#visitors)
-4. [What To Do Section](#what)
-5. [Footer](#footer)
-6. [Gallery](#gallery)
-7. [The Sign Up Page](#sign)
-8. [Features Left To Implement](#implement)
-9. [Testing](#testing)
-10. [Deployment](#deployment)
-11. [Credits](#credits)
+2. [User Experience (UX)](#ux)
+3. [Features](#features)
+4. [Visitors section](#visitors)
+5. [What To Do Section](#what)
+6. [Footer](#footer)
+7. [Gallery](#gallery)
+8. [The Sign Up Page](#sign)
+9. [Features Left To Implement](#implement)
+10. [Testing](#testing)
+11. [Deployment](#deployment)
+12. [Credits](#credits)
 
 
 # Getting Started
@@ -28,6 +29,30 @@ This is a project that showcases the beauty of Thailand. We have compiled a list
 <a name="started"></a>
 
 To view the website, simply click on the following link: [View the live project here](https://rockypraxe.github.io/We-Love-Thailand-project-1/)
+
+# User Experience (UX)
+
+<a name="ux"></a>
+
+- ## Users stories
+
+    - ###  First Time Visitor Goals
+
+     1.  As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+     3. As a First Time Visitor, I want read engaging articles that provide insight into Thailand's history, culture, and current events and discover new photo galleries and articles about Thailand's hidden gems and unique experiences.
+
+    - ### Returning Visitor Goals
+
+    1. I want discover new photo galleries and articles about Thailand's hidden gems and unique experiences.
+    2. I want engage with other members of the community by commenting and sharing content.
+    3. I want to look for testimonials to understand what their users think of them. I also want to locate their social media links to see their followings on social media.
+
+    - ### Frequent User Goals
+
+    1. I want stay up-to-date with the latest content by regularly checking the website.
+    2. I want interact with other members of the community by contributing your own photos and articles.
+    3. I want engage with the We Love Thailand Project team by providing feedback and suggestions for new content and also share photos and stories about your own experiences in Thailand.
 
 # Features
 
